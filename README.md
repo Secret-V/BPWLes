@@ -1,3 +1,3 @@
 # BPWLes
 
-Gezellige Readme
+Een unieke interactieve collaboratieve virtuele kunstinstallatie. 
